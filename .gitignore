@@ -1,0 +1,9 @@
+assembled_assets/
+__pycache__/
+*.pyc
+*.zip
+.idea/
+*.DS_Store
+.vscode/
+*.iml
+*.log
